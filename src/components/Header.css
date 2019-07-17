@@ -1,0 +1,27 @@
+header#main-header {
+   display: flex;
+   padding: 0 30px;
+   align-items: center;
+   
+   background: #fff;
+   height: 80px;
+   border-bottom: 1px solid #DDD;
+}
+
+header#main-header .header-content {
+   width: 100%;
+   max-width: 980px;
+   margin: 0 auto;
+   height: 72px;
+   padding: 0 30px;
+
+   display: flex;
+   align-items: center;
+   
+}
+
+header#main-header .h1 {
+   text-decoration: none;
+   color: #000000;
+   margin-right: 80px;
+}
